@@ -8,6 +8,8 @@ Run on local Ubuntu 20.04 machine with Nvidia RTX 3090 Conda environment.
 
 `pip install -U transformers accelerate einops langchain xformers bitsandbytes faiss-gpu sentence_transformers`
 
+`pip3 install streamlit beautifulsoup4 newspaper3k fpdf`
+
 Make sure to create a text file: `token.txt` in the root directory of this repository and paste in a HuggingFace access token.
 
 ### Running
