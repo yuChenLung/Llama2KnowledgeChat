@@ -1,5 +1,6 @@
 # pip3 install beautifulsoup4
 # pip3 install newspaper3k
+# pip3 install fpdf
 import requests
 from bs4 import BeautifulSoup
 from newspaper import Article
